@@ -9,7 +9,7 @@ fi
 
 function main_menu {
     clear
-    echo "----------- Abuse Defender -----------"
+    echo "----------- Abuse hetzner Fixer -----------"
     echo "https://github.com/arman-shirmohammadi/Hetzner-Abuse-Fixer"
     echo "--------------------------------------"
     echo "Choose an option:"
