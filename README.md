@@ -13,7 +13,7 @@
 To use the script, open your terminal and run the following command:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/arman-shirmohammadi/Hetzner-Abuse-Fixer/main/abuse-defender.sh)
+bash <(curl -s https://raw.githubusercontent.com/arman-shirmohammadi/Hetzner-Abuse-Fixer/main/abuse.sh)
 ```
 Once the script runs, select option 1 from the menu.
 
